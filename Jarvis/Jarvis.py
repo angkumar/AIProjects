@@ -35,7 +35,7 @@ def get_summary(results):
                 continue
         except PageError:
             continue
-    return "Sorry, I could not find any information on that topic."
+    return "aye bruh my fault cuh i couldn't find anything that u want gng mb"
 
 summary = get_summary(results)
 print(summary)
